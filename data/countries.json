@@ -1842,13 +1842,15 @@
     "latitude": 1,
     "longitude": 32
   },
-  {
+  {e
     "country": "Ukraine",
     "alpha2": "UA",
     "alpha3": "UKR",
     "numeric": 804,
     "latitude": 49,
-    "longitude": 32
+    "longitude": 32,
+    "name": "21 UKRAINE HUB",
+    "link": "https://t.me/uabtchub"
   },
   {
     "country": "United Arab Emirates",
